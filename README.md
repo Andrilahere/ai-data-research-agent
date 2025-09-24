@@ -1,6 +1,3 @@
-Perfect! Here’s a polished, complete `README.md` for your **AI Data & Research Intelligence Agent** repo, including all setup instructions, usage, and notes:
-
----
 
 # AI Data & Research Intelligence Agent
 
